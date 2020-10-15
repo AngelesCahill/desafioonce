@@ -1,0 +1,157 @@
+body {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.primerafila {
+    position: absolute;
+}
+.paises {
+    margin: 5px;
+}
+.bandera {
+    border: 1px solid black;
+    width: 40vw;
+    height: 300px;
+    position: absolute;
+    left: 1px;
+}
+.banderasdin {
+    border: 1px solid black;
+    width: 40vw;
+    height: 300px;
+    position: absolute;
+    left: 700px;
+}
+.baderaemiratos {
+    border: 1px solid black;
+    width: 40vw;
+    height: 300px;
+    position: absolute;
+    left: 1px;
+    top: 390px;
+}
+.banderajapon {
+    border: 1px solid black;
+    width: 40vw;
+    height: 300px;
+    position: absolute;
+    left: 700px;
+    top: 390px;
+}
+.franja {
+    height: 100px;
+    width: 39,5vw;
+}
+.roja {
+    background-color: red;
+}
+.amarilla {
+    background-color: yellow;
+}
+.blanca {
+    background-color: white;
+}
+.verde {
+    background-color: green;
+}
+.negra {
+    background-color: black;
+}
+.uno {
+    width: 10vw;
+    height: 130px;
+    position: absolute;
+    left: 1px;
+}
+.dos {
+    position: absolute;
+    left: 27%;
+}
+.tres {
+    width: 26vw;
+    height: 130px;
+    position: absolute;
+    left: 188px;
+}
+.tresd {
+    width: 26vw;
+    height: 130px;
+    position: absolute;
+    left: 188px;
+    top: 168px;
+}
+.unod {
+    width: 10vw;
+    height: 130px;
+    position: absolute;
+    left: 0px;
+    top: 167px;
+}
+.dosd {
+    position: absolute;
+    left: 18%;
+}
+.colorsm {
+    width: 10vw;
+    height: 300px;
+    position: absolute;
+    left: 1px;
+    top: 390px;
+}
+.colorlguno {
+    width: 30vw;
+    height: 100px;
+    position: absolute;
+    left: 136px;
+    top: 390px;
+}
+.colorlgdos {
+    width: 30vw;
+    height: 100px;
+    position: absolute;
+    left: 136px;
+    top: 490px;
+}
+.colorlgtres {
+    width: 30vw;
+    height: 100px;
+    position: absolute;
+    left: 136px;
+    top: 590px;
+}
+.fondo {
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    left: 192px;
+    top: 96px;
+    border-radius: 100px;
+}
+.nombresprimerafila {
+    position: absolute;
+    left: 5px;
+    top: 315px;
+}
+.espana {
+position: absolute;
+left: 25px;
+}
+.dinamarca {
+    position: absolute;
+    left: 735px;
+}
+.nombressegundafila {
+    position: absolute;
+    left: 5px;
+    top: 645px;
+}
+.emiratosarabes {
+position: absolute;
+left: 25px;
+}
+.japon {
+    position: absolute;
+    left: 735px;
+}
+

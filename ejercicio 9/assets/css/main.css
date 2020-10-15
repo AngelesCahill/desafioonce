@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 45px;
+}
+footer {
+    background-color: grey;
+    height: 45px;
+    clear: both;
+   
+}
+
+.menu {
+    float: left;
+    width: 20%;
+    background-color: #eaeded;
+}
+
+.articulo {
+    float: right;
+    width: 70%;
+    position: absolute;
+    top: 51px;
+    
+}
